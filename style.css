@@ -1,0 +1,83 @@
+.main{
+    width: 308px;
+    margin: 0 auto;
+    margin-top: 200px;
+    
+}
+
+.bor{
+    margin-top: 1px;
+}
+
+.btn1{
+
+    width: 50%;
+    border-radius: 50px;
+    border-style: hidden;
+    background-color: #D4D4D2;
+    height: 30px;
+    font-weight: 800;
+
+}
+.btn{
+    width: 40px;
+    border-radius: 50px;
+    background-color: #505050;
+    border-style: hidden;
+    height: 30px;
+    color: white;
+    width: 26.3%;
+}
+
+.btn2{
+    background-color: #D4D4D2;
+    border-style: hidden;
+    width: 30%;
+    border-radius: 50px;
+    height: 30px;
+    font-weight: 800;
+
+}
+
+.result{
+    background-color: #1C1C1C;
+    border-radius: 80px;
+    color: white;
+    height: 50px;
+    width: 300px;
+    border-color: grey;
+    border-style: double;
+    font-size: large;
+}
+
+.btn10{
+    width: 54%;
+    border-radius: 50px;
+    border-style: hidden;
+    background-color: #505050;
+    height: 30px;
+    color: white;
+
+}
+
+.line{
+    margin-top: 5px;
+}
+
+.btn0{
+    background-color: #FF9500;
+    border-radius: 80px;
+    border-style: hidden;
+    width: 15%;
+    height: 30px;
+    color: white;
+}
+
+.btndot{
+    background-color: #505050;
+    border-style: hidden;
+    width: 26%;
+    border-radius: 50px;
+    height: 30px;
+    color: white;
+}
